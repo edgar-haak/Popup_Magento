@@ -1,0 +1,21 @@
+magebirdpopup.php													magebirdpopup.php
+
+app/code/community/Magebird/Popup									app/code/community/Magebird/Popup
+app/design/adminhtml/default/default/layout/magebird_popup.xml		app/design/adminhtml/default/default/layout/magebird_popup.xml
+app/design/adminhtml/default/default/template/magebird/popup		app/design/adminhtml/default/default/template/magebird/popup
+app/design/frontend/base/default/layout/magebird_popup.xml			app/design/frontend/base/default/layout/magebird_popup.xml
+app/design/frontend/base/default/template/magebird/popup			app/design/frontend/base/default/template/magebird/popup
+app/etc/modules/Magebird_Popup.xml									app/etc/modules/Magebird_Popup.xml
+app/locale/en_US/Magebird_Popup.csv									app/locale/en_US/Magebird_Popup.csv
+app/locale/en_US/template/email/magebird_popup						app/locale/en_US/template/email/magebird_popup
+
+lib/magebird														lib/magebird
+
+media/catalog/product/m/a											media/catalog/product/m/a
+media/popup															media/popup
+media/wysiwyg/popup													media/wysiwyg/popup
+
+skin/adminhtml/default/default/magebird_popup						skin/adminhtml/default/default/magebird_popup
+skin/frontend/base/default/css/magebird_popup						skin/frontend/base/default/css/magebird_popup
+skin/frontend/base/default/images/magebird_popup					skin/frontend/base/default/images/magebird_popup
+skin/frontend/base/default/js/magebird_popup						skin/frontend/base/default/js/magebird_popup
