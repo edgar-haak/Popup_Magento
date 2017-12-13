@@ -11,10 +11,6 @@ app/locale/en_US/template/email/magebird_popup						app/locale/en_US/template/em
 
 lib/magebird														lib/magebird
 
-media/catalog/product/m/a											media/catalog/product/m/a
-media/popup															media/popup
-media/wysiwyg/popup													media/wysiwyg/popup
-
 skin/adminhtml/default/default/magebird_popup						skin/adminhtml/default/default/magebird_popup
 skin/frontend/base/default/css/magebird_popup						skin/frontend/base/default/css/magebird_popup
 skin/frontend/base/default/images/magebird_popup					skin/frontend/base/default/images/magebird_popup
